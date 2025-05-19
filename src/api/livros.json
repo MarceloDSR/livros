@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "editora": "HarperCollins",
+    "genero": "Fantasia, Aventura"
+  },
+  {
+    "id": 2,
+    "titulo": "O Poderoso Chefão",
+    "autor": "Mario Puzo",
+    "ano": 1969,
+    "editora": "Editora Record",
+    "genero": "Crime, Drama"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "autor": "Winston Groom",
+    "ano": 1986,
+    "editora": "Editora Record",
+    "genero": "Drama, Romance"
+  },
+  {
+    "id": 4,
+    "titulo": "Apertem os Cintos... O Piloto Sumiu!",
+    "autor": "Jim Abrahams, David Zucker, Jerry Zucker",
+    "ano": 1980,
+    "editora": "Não aplicável (trata-se de um roteiro de filme)",
+    "genero": "Comédia"
+  },
+  {
+    "id": 5,
+    "titulo": "O Pior Vizinho do Mundo",
+    "autor": "Fredrik Backman",
+    "ano": 2012,
+    "editora": "Editora Aterro",
+    "genero": "Comédia, Drama"
+  }
+]
